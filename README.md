@@ -49,5 +49,6 @@ Python automation · cleaning messy data · ERPNext · why your formula isn't re
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Ifrahnaazz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ifrahnaazshaikh10@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-iffzz__-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1478037164632707253)
+[![Medium](https://img.shields.io/badge/Medium-ifrahnaaz-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ifrahnaaz)
 
 <p align="center"><sub>Built with Markdown and mild perfectionism.</sub></p>
