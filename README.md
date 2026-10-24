@@ -5,31 +5,25 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-6C47FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/GenAI-0EA5A4?style=flat-square" />
+  <img src="https://img.shields.io/badge/UI%2FUX-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/2D%20%2F%203D%20Modelling-2563EB?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
----
 
 ## 👩‍💻 Who I am
 
-B.Tech IT grad from Vadodara. I build with Python, I'm getting deep into AI/ML and GenAI, and I'm just as happy in Figma as in a terminal. I like things that work **and** look good, ideally at the same time.
+B.Tech IT grad, currently in Vadodara. I'm getting deep into AI/ML and GenAI, I sketch interfaces in Figma, and I keep getting pulled into 2D and 3D modelling. Python is how I make the ideas actually run. I like things that work **and** look good, ideally at the same time.
 
 ## 🧭 What I'm into
 
-| | |
+| Area | What pulls me in |
 |---|---|
 | 🤖 **AI / ML & GenAI** | embeddings, RAG, agents, and why models say wrong things so confidently |
 | 🎨 **Design & UI/UX** | Figma, layouts, and the 2px that ruins everything |
 | 🧊 **2D / 3D modelling** | turning ideas into shapes |
 | 🌱 **Learning** | professional beginner, renewed every few months |
-
 ## 🛠️ Things I've built (and broken)
 
 - 🏥 **HealthcareAI**: an AI health assistant for rural areas. People describe symptoms by voice in their own language, and it sorts the cases for doctors. *Python · scikit-learn · NLP · agentic AI · React*
