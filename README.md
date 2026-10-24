@@ -51,5 +51,9 @@ Python automation · cleaning messy data · ERPNext · why your formula isn't re
 ## 📫 Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifrahnaaz-shaikh-17555225a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/iffzz_)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Ifrahnaazz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ifrahnaazshaikh10@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-iffzz__-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/1478037164632707253)
 
 <p align="center"><sub>Built with Markdown and mild perfectionism.</sub></p>
